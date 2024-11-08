@@ -5,8 +5,8 @@ import pandas as pd
 '''
 This script aims to generate a grid of coordinates for the city of Athens and surrounding areas.
 For this example we start north-west and go approximately 1km east/south in each column/row.
-We use a 10x10 grid (100 points) and also generate a map use folium to visualize if the points
-fit/cover the areas we want to scan for hotels in the 'get_reviews.py' script.
+We use a 10x10 grid (100 points) and also generate a map use 'folium' to visualize if the points
+fit/cover the areas we want to scan for lodging in the 'get_reviews.py' script.
 '''
 
 # Starting coordinates
