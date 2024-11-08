@@ -14,10 +14,10 @@ start_lat = 38.017383
 start_lon = 23.672536
 
 # Grid parameters
-rows = 10
-cols = 10
-lat_delta = 0.0090
-lon_delta = 0.012
+rows = 20
+cols = 20
+lat_delta = 0.0045
+lon_delta = 0.006
 
 # Generate grid
 coords = []
