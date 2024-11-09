@@ -69,6 +69,7 @@ def main():
         places = get_nearby_places(f"{loc[0]},{loc[1]}", 500, API_KEY,seen_place_ids)
 
         for place in places:
+            if len(reviews_data)>=10000:break
             rating = place.get('rating')
             if not rating:continue
             place_id = place.get('place_id')
