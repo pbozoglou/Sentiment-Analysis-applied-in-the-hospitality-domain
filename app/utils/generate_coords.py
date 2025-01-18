@@ -23,8 +23,8 @@ lon_delta = 0.006
 coords = []
 for i in range(rows):
     for j in range(cols):
-        lat = start_lat - (i * lat_delta)  # --> south
-        lon = start_lon + (j * lon_delta)  # --> east
+        lat = start_lat - (i * lat_delta)
+        lon = start_lon + (j * lon_delta)
         coords.append((lat, lon))
 
 coords_df = pd.DataFrame(coords, columns=['Latitude', 'Longitude'])

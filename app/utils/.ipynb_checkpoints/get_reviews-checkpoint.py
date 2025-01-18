@@ -20,7 +20,7 @@ def get_nearby_places(location, radius, api_key, seen_place_ids):
     
     '''
     Google allows up to 20 results per page, up to 3 pages.
-    I implement 'page' here to get as much data as I can.
+    Using 'next_page_token' parameter here to get up to 3 pages.
     https://developers.google.com/maps/documentation/places/web-service/search-nearby#pagetoken
     '''
     page = 1  
