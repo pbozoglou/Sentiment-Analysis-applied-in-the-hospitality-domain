@@ -1,2 +1,1 @@
-# Sentiment-Analysis-of-Hotel-Reviews
-Applying sentiment analysis on hotel reviews using natural language processing and machine learning.
+Check out a similar methodology applied on 700k+ review dataset [here](https://www.kaggle.com/code/pbozoglou/sentiment-analysis-in-the-hospitality-domain).
