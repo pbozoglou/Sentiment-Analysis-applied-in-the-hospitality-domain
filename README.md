@@ -18,7 +18,7 @@ Applying sentiment analysis on hotel reviews using natural language processing a
 This project focuses on analyzing hotel reviews to determine customer sentiments using natural language processing (NLP) and machine learning techniques.
 The primary goal is to classify reviews as positive or negative, aiding businesses in understanding customer feedback.
 
-A similar methodology has been applied to a larger dataset of over 700,000 reviews, which can be found [here](https://www.kaggle.com/code/pbozoglou/sentiment-analysis-in-the-hospitality-domain).
+A similar methodology has been applied to a larger dataset of over 500,000 reviews, which can be found [here](https://www.kaggle.com/code/pbozoglou/sentiment-analysis-in-the-hospitality-domain).
 
 ## Tech Stack
 
