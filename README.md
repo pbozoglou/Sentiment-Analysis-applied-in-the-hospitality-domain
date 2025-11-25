@@ -60,10 +60,6 @@ Ensure you have the following installed:
 Open the Jupyter Notebook files in the `app` directory to explore the data analysis and model training processes.
 These notebooks provide step-by-step insights into how sentiment analysis is applied to hotel reviews.
 
-## License
-
-This project is licensed under the [Apache 2.0 License](https://github.com/pbozoglou/Sentiment-Analysis-applied-in-the-hospitality-domain/blob/main/LICENSE).
-
 ## Acknowledgements
 
 - [Kaggle: Sentiment Analysis in the Hospitality Domain](https://www.kaggle.com/code/pbozoglou/sentiment-analysis-in-the-hospitality-domain)
